@@ -1,0 +1,11 @@
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.exe
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.deps.json
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.runtimeconfig.json
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.runtimeconfig.dev.json
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.dll
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\bin\Debug\netcoreapp3.0\OOPS.pdb
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\obj\Debug\netcoreapp3.0\OOPS.csprojAssemblyReference.cache
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\obj\Debug\netcoreapp3.0\OOPS.AssemblyInfoInputs.cache
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\obj\Debug\netcoreapp3.0\OOPS.AssemblyInfo.cs
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\obj\Debug\netcoreapp3.0\OOPS.dll
+C:\pranav\Study\Code\Implementation\CommonSolution\OOPS\obj\Debug\netcoreapp3.0\OOPS.pdb
