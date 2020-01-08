@@ -12,3 +12,6 @@
 /OOPS/obj/
 /TPL/obj/
 /TPL/bin/
+/CosmosDB/obj
+/CosmosDB/bin/Debug/netcoreapp3.1
+/CosmosDB/.vscode
